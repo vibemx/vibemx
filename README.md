@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Victor Beltran | @vibemx</h1>
-<h3 align="center">Full-Stack Developer | Telematics Engineer | DevOps & Infra Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Software Developer | DevOps & Infra Enthusiast</h3>
 
 🌐 I'm currently working on full-stack web applications using Laravel and Vue.js, developing and maintaining legacy systems in PHP, and designing APIs for public sector solutions.
 
